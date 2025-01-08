@@ -7,10 +7,10 @@ export const Hero = () => {
       <div className="container mx-auto px-4 py-16 text-center">
         <div className="animate-fade-in">
           <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent">
-            Transform Your Future With The Right Skills
+            Master The Skills That Shape Tomorrow
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Stop gambling with your career. Get expert guidance to master the exact skills that top companies are desperately seeking in India's rapidly evolving job market.
+            Whether you're in high school, college, or already working - unlock your potential by mastering the exact high-income skills that are transforming lives across India.
           </p>
         </div>
         

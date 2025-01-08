@@ -9,7 +9,7 @@ export const CTA = () => {
           Your Future Starts With One Decision
         </h2>
         <p className="text-xl mb-8 max-w-2xl mx-auto opacity-90 animate-fade-in" style={{ animationDelay: "0.2s" }}>
-          Join thousands of Indian students who've already discovered their path to high-income skills and financial freedom. Start with our free career assessment.
+          Join thousands of ambitious Indians who've already discovered their path to high-income skills and financial freedom. Start with our free career assessment.
         </p>
         <div className="flex flex-wrap gap-6 justify-center animate-fade-in" style={{ animationDelay: "0.4s" }}>
           <Button 
