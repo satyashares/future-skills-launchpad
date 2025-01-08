@@ -1,4 +1,4 @@
-import { Brain, Users, Trophy, Target, Rocket, Sparkles } from "lucide-react";
+import { Brain, Users, Trophy, Target, Rocket, Sparkles, ArrowRight } from "lucide-react";
 import { Button } from "./ui/button";
 
 export const Features = () => {
